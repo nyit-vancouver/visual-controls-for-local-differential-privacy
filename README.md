@@ -5,3 +5,20 @@ This is the code repository for the project that presents a user-centric approac
 We built an interactive prototype in Figma that demonstrates the user interface for adjusting privacy settings: [Figma Prototype for Smart Home Privacy Widget](https://www.figma.com/proto/NbBGjJAZFVnNLcnAnNpP4Q/Smart-Home-Privacy-Widget---Prototype).
 
 We use the [voice command dataset](https://www.kaggle.com/datasets/emanuelbuttaci/audios/data) containing user interactions with a voice-controlled virtual assistant. The metadata file describes audio recordings from multiple speakers, including speakers' properties and audio file paths with 9854 records. Each record includes pre-anonymized age ranges (e.g., "22-40"), gender, and English fluency level (marked as "advanced"). The command data consists of two main categorical components: actions (such as "activate" and "deactivate") and categories (including "music" and "lights"). The pre-existing age anonymization through range categorization aligns with our objective of enhancing privacy protection through DP mechanisms.
+
+# Paper
+Xueting Li, Shiyao Dong, Amin Milani Fard, ["Enhancing User Experience with Visual Controls for Local Differential Privacy”](Download PDF), Journal of Cybersecurity and Privacy 5.3 (2025).
+
+# Citation
+```
+@article{li2025enhancing,
+  title={Enhancing User Experience with Visual Controls for Local Differential Privacy},
+  author={Li, Xueting and Dong, Shiyao and Milani Fard, Amin},
+  journal={Journal of Cybersecurity and Privacy},
+  volume={5},
+  number={3},
+  pages={36},
+  year={2025},
+  publisher={MDPI}
+}
+```
