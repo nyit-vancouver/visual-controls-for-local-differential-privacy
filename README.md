@@ -7,7 +7,7 @@ We built an interactive prototype in Figma that demonstrates the user interface 
 We use the [voice command dataset](https://www.kaggle.com/datasets/emanuelbuttaci/audios/data) containing user interactions with a voice-controlled virtual assistant. The metadata file describes audio recordings from multiple speakers, including speakers' properties and audio file paths with 9854 records. Each record includes pre-anonymized age ranges (e.g., "22-40"), gender, and English fluency level (marked as "advanced"). The command data consists of two main categorical components: actions (such as "activate" and "deactivate") and categories (including "music" and "lights"). The pre-existing age anonymization through range categorization aligns with our objective of enhancing privacy protection through DP mechanisms.
 
 # Paper
-Xueting Li, Shiyao Dong, Amin Milani Fard, ["Enhancing User Experience with Visual Controls for Local Differential Privacy”](Download PDF), Journal of Cybersecurity and Privacy 5.3 (2025).
+Xueting Li, Shiyao Dong, Amin Milani Fard, ["Enhancing User Experience with Visual Controls for Local Differential Privacy”](https://www.mdpi.com/2624-800X/5/3/36), Journal of Cybersecurity and Privacy 5.3 (2025).
 
 # Citation
 ```
